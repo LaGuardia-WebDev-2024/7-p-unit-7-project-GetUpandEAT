@@ -1,13 +1,14 @@
 body {
-  background-color: black;
+  background-color: #7adaf5;
   text-align: center;
-  color: white;
+  color: #104d93;
 }
 
 
 #myCanvas {
-  background-image: url("https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
-  background-size: 400px;
+  background-image: url("https://media.istockphoto.com/id/817436664/photo/landscape-of-grass-field-and-green-environment-public-park-use-as-natural-background-backdrop.jpg?s=612x612&w=0&k=20&c=B2FnusRbl93tCXXyjH-XNOcadIROw4PTt7MOyEvOZnA=" );
+  background-size: fill;
+  background-repeat: no-repeat;
   border-radius: 30px;
   border: 1px solid rgb(255,245,227);
 }
